@@ -1,0 +1,32 @@
+.monMenu
+{
+	display: flex;
+}
+
+.monMenu form
+{
+	display: inline-block;
+	margin: auto;
+	flex-direction: column;
+	justify-content: space-around;
+}
+
+.monMenu p
+{
+	margin: 10px;
+	justify-content: space-around;
+}
+
+.mesInfos label
+{
+    display:block; 
+    width:100px; 
+    float:left;
+}
+
+.mesCommentaires
+{
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+}

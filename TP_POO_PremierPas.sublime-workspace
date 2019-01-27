@@ -1,0 +1,646 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"th",
+				"this"
+			],
+			[
+				"_",
+				"_pdo"
+			],
+			[
+				"_db",
+				"_db_host"
+			],
+			[
+				"_db_",
+				"_db_use"
+			],
+			[
+				"str_",
+				"str_replace"
+			],
+			[
+				"spl_au",
+				"spl_autoload_register"
+			],
+			[
+				"flex",
+				"flex-direction\tproperty"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"in",
+				"inline-block\tdisplay"
+			],
+			[
+				"backgr",
+				"background-color\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"marg",
+				"margin\tproperty"
+			],
+			[
+				"alig",
+				"align-items\tproperty"
+			],
+			[
+				"ali",
+				"align-items\tproperty"
+			],
+			[
+				"di",
+				"flex-direction\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"messa",
+				"message_date"
+			],
+			[
+				"php",
+				"php"
+			],
+			[
+				"message",
+				"message"
+			],
+			[
+				"back",
+				"background-repeat\tproperty"
+			],
+			[
+				"column",
+				"column\tflex-direction"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"fle",
+				"flex-direction\tproperty"
+			],
+			[
+				"bor",
+				"border-color\tproperty"
+			],
+			[
+				"li",
+				"list-style-type\tproperty"
+			],
+			[
+				"border-r",
+				"border-radius\tproperty"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "pages/NewsView.php",
+			"settings":
+			{
+				"buffer_size": 397,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "app/Database.php",
+			"settings":
+			{
+				"buffer_size": 647,
+				"encoding": "UTF-8",
+				"line_ending": "Unix",
+				"name": "Database.php"
+			}
+		},
+		{
+			"file": "public/class/NewsManager.class.php",
+			"settings":
+			{
+				"buffer_size": 962,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "pages/AdminView.php",
+			"settings":
+			{
+				"buffer_size": 1333,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/Index.php",
+			"settings":
+			{
+				"buffer_size": 366,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "public/class/Autoloader.php",
+			"settings":
+			{
+				"buffer_size": 469,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Install Package"
+			],
+			[
+				"PHP: Generate",
+				"PHP: Generate Getters and Setters"
+			],
+			[
+				"PHP: Generate Getters and Se",
+				"PHP: Generate Getters and Setters"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by) "
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/pages",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/public",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/public/class",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/app"
+	],
+	"file_history":
+	[
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/public/Index.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/pages/NewsView.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/public/class/Autoloader.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/News.class.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/NewsController.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/NewsVue.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/AdminView.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/Index.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/Autoloader.php",
+		"/home/jcvignoud/.config/sublime-text-3/Packages/User/Xdebug.sublime-settings",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/code/TP_POO_PremierPas.sublime-project",
+		"/home/jcvignoud/.config/sublime-text-3/Packages/Xdebug Client/Xdebug.sublime-settings",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/TP_POO_PremierPas.sublime-project",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/test.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/NewsManager.class.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/style.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/AdminView.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/NewsVue.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/Index.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/News.class.php",
+		"/etc/php/7.2/cli/php.ini",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/Personnage.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/Index.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_4/CV_a_corriger/CV3/CV_en_ligne_2/cv.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/2__TP_MiniChat/minichat.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_4/CV_a_corriger/CV3/CV_en_ligne_2/css/style.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/Style.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/2__TP_MiniChat/minichat_post.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/NewsVue",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/__diaE0I2VZ",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP2_News/ModelNews.code",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TestJC/Test.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/index.manifest",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/PersonnageManager.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/Guerrier.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/Magicien.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/3__POO/TP1/character.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP3/Tp3/minichat.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP3/Tp3/minichat.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/minichat.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP3/Tp3/minichat_post.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP2/minichat/minichat_post.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP2/minichat/minichat.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/minichat_post.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP1/minichat_ameliore/minichat.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/correction/TP1/minichat_ameliore/minichat_traitement.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/4__TP_minichat/minichat.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/3__TP_Blog/index.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/3__TP_Blog/index.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/1__TP_MySQL/jeux_video.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/0__TP/formulaire.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/0__TP/secret.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/3__TP_Blog/commentaires.php",
+		"/home/jcvignoud/test.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/TP/formulaire.php",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/2_PHP_MySQL/TP/secret.php",
+		"/home/jcvignoud/test.php",
+		"/home/jcvignoud/Documents/1__Perso/6__Script/LaunchTools.sh",
+		"/home/jcvignoud/Documents/2__Pro/6__Projet/e-dee/Mockup/index.html",
+		"/home/jcvignoud/Téléchargements/film_Flo/Unknown.2011.1080p.BluRay.x264.AC3-ETRG.srt",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_4/mon_cv.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_4/mon_cv.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/tp_final/index.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/tp_final/style.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/CV_a_corriger/CV3/style.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/CV_a_corriger/CV3/CV clment.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/CV_a_corriger/CV2/styles.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/CV_a_corriger/CV2/site.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/CV_a_corriger/CV1/style.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/CV_a_corriger/CV1/Accueil.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/mon_cv.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_3/mon_cv.css",
+		"/home/jcvignoud/Documents/2__Pro/6__Projet/e-dee/TP_OpenClassRoom_e_dee/e_dee.css",
+		"/home/jcvignoud/Documents/2__Pro/6__Projet/e-dee/TP_OpenClassRoom_e_dee/e_dee.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_2/mon_cv.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_2/mon_cv.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/Semaine_2/CV_a_corriger/CV1/CV.html",
+		"/home/jcvignoud/Documents/2__Pro/6__Projet/e-dee/Mockup/Resources/SampleStyle.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/1_FichierDeTravail/test.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/1_FichierDeTravail/test.css",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/mon_cv.html",
+		"/home/jcvignoud/Documents/1__Perso/4__MOOC/1_HTML5_CSS3/0_Exercice_CV/CV_a_corriger/CV2/Page.html",
+		"/home/jcvignoud/Bureau/test.html"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": true,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 1,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "pages/NewsView.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 397,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								365,
+								365
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 5,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "app/Database.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 647,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								645,
+								645
+							]
+						],
+						"settings":
+						{
+							"auto_name": "Database.php",
+							"syntax": "Packages/PHP/PHP.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "public/class/NewsManager.class.php",
+					"semi_transient": true,
+					"settings":
+					{
+						"buffer_size": 962,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								962,
+								962
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "pages/AdminView.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1333,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								224,
+								224
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 4,
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "public/Index.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 366,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								53,
+								53
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 5,
+					"file": "public/class/Autoloader.php",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 469,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								45,
+								45
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/PHP/PHP.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.xdebug":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "TP_POO_PremierPas.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+		"xdebug":
+		{
+			"hide_conflict": false,
+			"restore_index":
+			{
+				"40":
+				{
+					"group": 0,
+					"index": 0
+				},
+				"42":
+				{
+					"group": 0,
+					"index": 1
+				},
+				"50":
+				{
+					"group": 0,
+					"index": 2
+				}
+			},
+			"restore_layout":
+			{
+				"cells":
+				[
+					[
+						0,
+						0,
+						1,
+						1
+					]
+				],
+				"cols":
+				[
+					0.0,
+					1.0
+				],
+				"rows":
+				[
+					0.0,
+					1.0
+				]
+			}
+		}
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 285.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

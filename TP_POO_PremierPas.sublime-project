@@ -1,0 +1,21 @@
+{
+	"folders":
+	[
+		{
+			"path": "pages"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "app"
+		}
+	],
+	"settings":
+	{
+		"xdebug":
+		{
+			"url": "http://localhost/TP_POO_PremiersPas/Index.php"
+		}
+	}
+}
